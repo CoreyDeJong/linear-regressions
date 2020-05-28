@@ -1,0 +1,1 @@
+https://github.com/CoreyDeJong/linear-regressions/pull/1 
